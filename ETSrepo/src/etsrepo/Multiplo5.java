@@ -12,7 +12,7 @@ public class Multiplo5 {
 				System.out.println((cont+1) + ": " + i + "  ");
 			cont = cont + 1;
 			}
-			if (cont == 150)
+			if (cont == 160)
 				repetir = false;
 		}
 
