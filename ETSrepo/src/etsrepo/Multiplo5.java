@@ -8,11 +8,11 @@ public class Multiplo5 {
 		
 		for (int i = 1; repetir; i++) {
 			
-			if (i % 5 == 0) {
+			if (i % 10 == 0) {
 				System.out.println((cont+1) + ": " + i + "  ");
 			cont = cont + 1;
 			}
-			if (cont == 100)
+			if (cont == 150)
 				repetir = false;
 		}
 
